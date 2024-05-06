@@ -1,6 +1,7 @@
 
 * Deployed at : https://spacex-program-launches.netlify.app/
 
+Use Command : npm install , for installing all the dependencies and packages used in the project.
 
 # Getting Started with Create React App
 
